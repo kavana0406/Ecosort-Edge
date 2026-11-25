@@ -1,0 +1,57 @@
+{
+  "mobile_tablet": {
+    "category": "Mobile / Tablet",
+    "reuse": "If the device works safely, consider continued use or responsible reuse.",
+    "repair": "Seek a qualified technician for repair assessment.",
+    "recycle": "If reuse or repair is not practical, use an authorised e-waste collection channel.",
+    "safety": "If the battery is swollen, leaking or damaged, do not charge, use or dismantle the device. Seek professional handling.",
+    "data_protection": "Back up important information and securely erase personal data before transferring or disposing of the device.",
+    "source": "Pending verification against official guidance",
+    "verification_date": null
+  },
+  "charger_adapter": {
+    "category": "Charger / Adapter",
+    "reuse": "Reuse only if the charger is in good condition and operates safely.",
+    "repair": "Seek a qualified technician if the charger is faulty.",
+    "recycle": "Use an authorised e-waste collection channel when it is no longer usable.",
+    "safety": "Stop using a visibly damaged charger. Disconnect it only if safe.",
+    "source": "Pending verification against official guidance",
+    "verification_date": null
+  },
+  "cable": {
+    "category": "Cable",
+    "reuse": "Reuse if the cable is intact and works properly.",
+    "repair": "Replace or seek professional assessment if damaged.",
+    "recycle": "Send unusable cables to an authorised e-waste collection channel.",
+    "safety": "Do not use cables with exposed wires or damaged insulation.",
+    "source": "Pending verification against official guidance",
+    "verification_date": null
+  },
+  "circuit_board": {
+    "category": "Circuit Board",
+    "reuse": "Consider reuse only after qualified inspection.",
+    "repair": "Seek professional assessment for repair.",
+    "recycle": "Send unusable boards to an authorised e-waste recycler.",
+    "safety": "Avoid touching exposed components or attempting unsafe dismantling.",
+    "source": "Pending verification against official guidance",
+    "verification_date": null
+  },
+  "computer_accessory": {
+    "category": "Computer Accessory",
+    "reuse": "Reuse if the accessory works properly and is safe.",
+    "repair": "Seek professional repair assessment if faulty.",
+    "recycle": "Use an authorised e-waste collection channel if unusable.",
+    "safety": "Avoid using accessories with exposed wires or damaged electrical parts.",
+    "source": "Pending verification against official guidance",
+    "verification_date": null
+  },
+  "other_ewaste": {
+    "category": "Other E-waste",
+    "reuse": "Confirm the item type and condition before considering reuse.",
+    "repair": "Seek professional assessment if the item is faulty.",
+    "recycle": "Use an authorised e-waste collection channel.",
+    "safety": "Do not dismantle unknown electronic items. Seek professional guidance.",
+    "source": "Pending verification against official guidance",
+    "verification_date": null
+  }
+}

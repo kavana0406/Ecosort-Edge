@@ -1,0 +1,19 @@
+# Python environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
+.DS_Store
+
+# IDE files
+.vscode/
+
+# Secrets
+.env
+
+# Keep generated model and project source files
